@@ -48,7 +48,7 @@ function addExcitement (theWordArray) {
     			arrString = arrString + " " + sentence[i];
 
     	}
-
+console.log(arrString);
     }
 
 
